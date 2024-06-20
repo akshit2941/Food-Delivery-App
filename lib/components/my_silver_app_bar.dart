@@ -29,7 +29,7 @@ class MySilverAppBar extends StatelessWidget {
               ),
             );
           },
-          icon: const Icon(Icons.shopping_cart),
+          icon: const Icon(Icons.shopping_cart_outlined),
         )
       ],
       backgroundColor: Theme.of(context).colorScheme.surface,
